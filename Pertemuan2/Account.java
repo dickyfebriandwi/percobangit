@@ -7,7 +7,7 @@ public class Account {
 	private int accountNumber;
 	private int currentBalance;
 	
-	
+	//Saya membuat comment
 	public int getAccountNumber() {
 		return accountNumber;
 	}
